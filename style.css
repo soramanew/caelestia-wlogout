@@ -8,6 +8,7 @@
 window {
     background: url("../../.cache/caelestia/wallpaper/blur"), rgba(31, 33, 36, 0.7);
     background-size: cover;
+    background-position: center;
 }
 
 button {
